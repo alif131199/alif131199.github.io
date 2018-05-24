@@ -1,14 +1,17 @@
-# Muhamad Alif Hanif Fadillah
- 
+Muhamad Alif Hanif Fadillah
+============
+
 Mahasiswa Ilmu Komputer IPB
 
 <address>
-<i>Komplek Gading Tutuka 1 Blok E2A no.1 40914<br>
+Komplek Gading Tutuka 1 Blok E2A no.1 40914<br>
 +62 82240157480<br>
-alif131199@gmail.com<br></i>
+alif131199@gmail.com<br>
 </address>
 
-## Pendidikan
+Pendidikan
+----------
+
 ### SMAN 1 Margahayu
 
 Jul 2014 - Jun 2017
@@ -19,7 +22,8 @@ Jul 2011 - Jun 2014
 
 Jul 2005 - Jun 2011
 
-## Organisasi
+Organisasi
+---------
 
 - Anggota Pramuka SDN Cingcin 3
 - Anggota PMR SMPN 1 Soreang
@@ -30,11 +34,17 @@ Jul 2005 - Jun 2011
 - Anggota INARI divisi Gambar Animasi
 - Kru Koran Kampus
 
-## Prestasi
+
+Prestasi
+--------
 
 - Juara 3 Menggambar di TK Seruni
 - Juara 2 Membuat Tabloid Mini Koran Kampus
 
-## Hobi
+
+Hobi
+----
 
 Tidur, bermain game, menulis, menonton anime, dan menggambar.
+
+---
